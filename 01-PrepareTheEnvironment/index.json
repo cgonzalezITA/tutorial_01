@@ -1,0 +1,17 @@
+{
+    "title": "Prepare the environment",
+    "description": "Prepare the tools to use during the tutorial",
+    "details": {
+      "intro": {
+        "text": "intro.md"
+      },
+      "steps": [
+        {
+          "text": "step1-InstallContainerizationTools.md"
+        }
+      ]
+    },
+    "backend": {
+      "imageid": "kubernetes-kubeadm-1node"
+    }
+  }
