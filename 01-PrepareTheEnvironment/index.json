@@ -7,7 +7,9 @@
       },
       "steps": [
         {
-          "text": "step1-InstallContainerizationTools.md"
+            "title": "Install the containerization tools",
+            "text": "step1-installContainerizationTools/step1-InstallContainerizationTools.md",
+            "background": "step1-installContainerizationTools/background.md"
         }
       ]
     },

@@ -1,0 +1,1 @@
+This section will prepare the tools to use during the tutorial
